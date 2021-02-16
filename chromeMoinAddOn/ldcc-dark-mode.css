@@ -68,3 +68,15 @@ li > .tit {
 .window .panel-title {
   color : #cacaca !important
 }
+.birthAlarm .dayW {
+  background-color: #323639 !important;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.birthAlarm .dayW div{
+  color : #cacaca !important
+}
+
+.birthAlarm li span {
+  color : #cacaca !important
+}
