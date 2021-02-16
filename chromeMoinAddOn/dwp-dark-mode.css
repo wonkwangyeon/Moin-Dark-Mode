@@ -1,0 +1,64 @@
+.defaultpage {
+  background-color: #323639 !important;
+}
+
+header {
+  background-color: #323639 !important;
+  border-bottom: solid 1px #dedede !important;
+}
+
+header .tab li {
+  background-color: #323639 !important;
+}
+
+header .gnb {
+  background-color: #4e4e4e !important;
+}
+
+.nav-wrap > div {
+  color : #eaeaea !important;
+}
+
+.nav-wrap > ul > li > a{
+  color : #cac6c6 !important;
+}
+.company > a {
+  color: #fff !important
+}
+.gnb {
+  border-top: solid 1px #dedede !important;
+}
+.mid-tit {
+  color : #cac6c6 !important;
+}
+
+.notice-item .txt a {
+  color : #cac6c6 !important;
+}
+
+.article-main .tit-txt a {
+  color : #cac6c6 !important;
+}
+
+.article-main .summary {
+  color : #888 !important;
+}
+
+.mail .tit-txt a {
+  color : #cac6c6 !important;
+}
+
+.mail-tit span {
+  color : #888 !important;
+}
+
+.family-tab > div > a {
+  color : #cac6c6 !important;
+}
+
+.tit-txt > .family-title > a {
+  color : #a2a2a2 !important;
+}
+.more {
+  color : #cac6c6 !important;
+}

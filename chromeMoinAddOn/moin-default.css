@@ -1,0 +1,63 @@
+.main .container > div.ss-active-child {
+  background-color: #fff !important;
+}
+
+.gnbFull {
+  background-color: #fff !important;
+  border-bottom: solid 1px #ed1b24 !important;
+}
+
+#header {
+  background-color: #ed1b24 !important;
+}
+
+#conWrap {
+  background-color: #fff !important;
+}
+
+.nav-tit a {
+  color : #2e2e2e !important;
+}
+
+.owl-item > div {
+  color : #2e2e2e;
+}
+
+.multiBoard .titArea .synced {
+  border-bottom: 2px solid #ed1b24;
+  color: #ed1b24
+}
+
+
+.titArea {
+  color : #2e2e2e !important;
+}
+
+.port_board li a {
+  color : #2e2e2e !important;
+}
+
+.port_board li span {
+  color : #2e2e2e !important;
+}
+
+.portCon > div {
+  color : #2e2e2e !important;
+}
+
+li > .tit {
+  color : #2e2e2e !important;
+}
+
+.nav-wrap > ul > li > a {
+  color : #2e2e2e !important
+}
+
+.window .window-header {
+  background-color: #4e4e4e !important;
+  border-bottom: solid 1px #dedede !important;
+}
+
+.window .panel-title {
+  color : #2e2e2e !important
+}

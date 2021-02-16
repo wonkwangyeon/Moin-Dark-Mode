@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "MOIN Main Page Dark Mode",
+  "description": "눈이 너무 아파 만들었습니다. DWP페이지와 롯데정보통신 MOIN 메인페이지만 Dark Mode로 가능.",
+  "version": "1.0.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "*://company.lotte.net/*",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://company.lotte.net/*",
+        "*://dwp.lotte.net/*"
+      ],
+      "css": [
+        "ldcc-dark-mode.css",
+        "dwp-dark-mode.css"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    "dark-mode.css"
+  ]
+}
